@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+
+# Virtual environments
+.venv/
+.venv-1/
+env/
+venv/
+ENV/
+
+# Node modules / frontend build
+node_modules/
+dist/
+.vite/
+
+# IDEs
+.vscode/
+.idea/
